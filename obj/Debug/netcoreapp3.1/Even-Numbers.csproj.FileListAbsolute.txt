@@ -1,0 +1,11 @@
+C:\Users\Paul\Documents\Even-Numbers\bin\Debug\netcoreapp3.1\Even-Numbers.exe
+C:\Users\Paul\Documents\Even-Numbers\bin\Debug\netcoreapp3.1\Even-Numbers.deps.json
+C:\Users\Paul\Documents\Even-Numbers\bin\Debug\netcoreapp3.1\Even-Numbers.runtimeconfig.json
+C:\Users\Paul\Documents\Even-Numbers\bin\Debug\netcoreapp3.1\Even-Numbers.runtimeconfig.dev.json
+C:\Users\Paul\Documents\Even-Numbers\bin\Debug\netcoreapp3.1\Even-Numbers.dll
+C:\Users\Paul\Documents\Even-Numbers\bin\Debug\netcoreapp3.1\Even-Numbers.pdb
+C:\Users\Paul\Documents\Even-Numbers\obj\Debug\netcoreapp3.1\Even-Numbers.csprojAssemblyReference.cache
+C:\Users\Paul\Documents\Even-Numbers\obj\Debug\netcoreapp3.1\Even-Numbers.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Even-Numbers\obj\Debug\netcoreapp3.1\Even-Numbers.AssemblyInfo.cs
+C:\Users\Paul\Documents\Even-Numbers\obj\Debug\netcoreapp3.1\Even-Numbers.dll
+C:\Users\Paul\Documents\Even-Numbers\obj\Debug\netcoreapp3.1\Even-Numbers.pdb
